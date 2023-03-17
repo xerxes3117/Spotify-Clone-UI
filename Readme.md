@@ -20,8 +20,8 @@ MongoDB
 ??
 
 **Testing:**
-FE: JEST + RTL
-BE: ??
+- FE: JEST + RTL
+- BE: ??
 
 
 ## Learning
