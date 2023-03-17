@@ -8,7 +8,7 @@
 ## Tech Stack
 
 **Front end:**
-React, Redux, Material UI, Typescript
+React, Redux, Material UI, Typescript, Sass
 
 **Backend:**
 Node
