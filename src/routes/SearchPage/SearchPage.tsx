@@ -5,7 +5,7 @@ export function SearchPage
  (props: AppProps) {
   return (
     <div>
-      HomePage
+      Search
     </div>
   );
 }
