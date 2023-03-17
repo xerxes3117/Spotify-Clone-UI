@@ -1,5 +1,10 @@
 # Plan
 
+## References: 
+
+- Spotify web player: https://open.spotify.com/
+- Spotify web api: https://developer.spotify.com/documentation/web-api/
+
 ## Tech Stack
 
 **Front end:**
@@ -31,3 +36,4 @@ BE: ??
 
 - CI/CD using jenkins
 - CDN integration
+- Deploying as website
