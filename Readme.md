@@ -16,7 +16,6 @@ MongoDB
 FE: JEST + RTL
 BE: ??
 
----
 
 ## Learning
 
