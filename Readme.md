@@ -1,31 +1,32 @@
-**Tech Stack**
+## Tech Stack
 
-Front end:
+**Front end:**
 React, Redux, Material UI
 
-Backend:
+**Backend:**
 Node
 
-DBMS:
+**DBMS:**
 MongoDB
 
-Devops:
+**Devops:**
 ??
 
-Testing:
+**Testing:**
 FE: JEST + RTL
 BE: ??
 
+---
 
-**Learning**
+## Learning
 
-Front end:
+**Front end:**
 
 - Testing
 - Building design libraries
 - Micro-frontends
 
-Devops
+**Devops**
 
 - CI/CD using jenkins
 - CDN integration
