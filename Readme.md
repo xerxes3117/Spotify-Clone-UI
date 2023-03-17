@@ -21,7 +21,7 @@ MongoDB
 
 **Testing:**
 - FE: JEST + RTL
-- BE: ??
+- BE: JEST
 
 
 ## Learning
