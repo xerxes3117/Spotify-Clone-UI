@@ -1,7 +1,7 @@
 export interface AppProps {
 }
 
-export function SearchPage
+function SearchPage
  (props: AppProps) {
   return (
     <div>
@@ -9,3 +9,5 @@ export function SearchPage
     </div>
   );
 }
+
+export default SearchPage;
